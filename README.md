@@ -2,17 +2,21 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-<h1>👋 أحمد عادل | Ahmed Adel</h1>
-<h3>📱 Flutter Developer | 🎥 Content Creator | 🚀 Founder of <a href="https://learnsimply.com">LearnSimply.com</a></h3>
+<h1>👋 Ahmed Adel</h1>
+<h3>🚀 Flutter Developer | 🎥 YouTube Content Creator | 🌐 Founder of <a href="https://learnsimply.com">LearnSimply.com</a></h3>
 
 <p>
-🔥 Teaching 230K+ learners to code in Arabic<br>
-💻 Building apps & animations with Flutter<br>
-🎬 Making clean code fun and accessible on YouTube
+I teach over 230,000 Arabic-speaking students how to code through engaging, clear, and practical content.<br>
+I specialize in Flutter development, building modern UI components, animations, and clean architecture apps.
 </p>
 
-[![YouTube](https://img.shields.io/badge/Youtube-اتعلم_ببساطة-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnsimply)
+[![YouTube](https://img.shields.io/badge/YouTube-Learn_Simply-red?style=for-the-badge&logo=youtube&logoColor=white)](https://elzero.org/)
 [![Website](https://img.shields.io/badge/Website-learnsimply.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://learnsimply.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/ahmedlearnSimply)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmedlearnSimply)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/learnsimply)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@learnsimply)
+[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@learnsimply.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedlearnSimply&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -20,23 +24,24 @@
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+#### 💻 Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### 📱 Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🔥 What I Do
-
-- 🧑‍🏫 أدرّس البرمجة بلغتي: عربية بسيطة وواضحة  
-- 📱 أبني تطبيقات Flutter بتصميم عصري ونظيف  
-- ✨ أشرح الكود بأسلوب تفاعلي ممتع على YouTube  
-- 🛠 أشارك مكتبات، مكونات، وأفكار مشاريع مفتوحة المصدر  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -49,14 +54,9 @@
 
 ---
 
-### 📫 تواصل معايا
+### 📬 Contact Me
 
-- 💬 Telegram: [@ahmedlearnSimply](https://t.me/ahmedlearnSimply)
-- 📩 Email: ahmed@learnsimply.com
+Feel free to reach out via any of the platforms above — whether you want to collaborate, ask a coding question, or just say hi!
 
 ---
-
-### 🧠 Fun Fact
-
-> لما تبني مشروع Flutter جديد وتلاقي كل حاجة شغالة من أول مرة، ده مش bug… ده معجزة! 😄
 
